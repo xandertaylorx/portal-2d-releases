@@ -3,7 +3,7 @@
 # Portal 2D: downloads
 
 This repository only hosts **release builds** of Portal 2D, a pixel-art, side-scrolling portal puzzler.
-The source code is private.
+The source code lives at [xandertaylorx/portal-2d-game](https://github.com/xandertaylorx/portal-2d-game) (source-available, not open source).
 
 ## Download
 
